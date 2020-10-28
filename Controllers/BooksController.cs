@@ -57,7 +57,7 @@ namespace Pinzar_Catalin_Lab2.Controllers
                     books = books.OrderBy(b => b.Title);
                     break;
             }
-            int pageSize = 2;
+            int pageSize = 3;
             return View(await PaginatedList<Book>.CreateAsync(books.AsNoTracking(), pageNumber ??
            1, pageSize));
         }
