@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace Pinzar_Catalin_Lab2.Models
+namespace LibraryModel.Models
 {
     public class Book
     {

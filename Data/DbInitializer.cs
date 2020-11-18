@@ -2,7 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Pinzar_Catalin_Lab2.Models;
+using LibraryModel.Data;
+using LibraryModel.Models;
 
 namespace Pinzar_Catalin_Lab2.Data
 {

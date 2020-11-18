@@ -2,12 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using LibraryModel.Data;
+using LibraryModel.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Pinzar_Catalin_Lab2.Data;
-using Pinzar_Catalin_Lab2.Models;
-using Pinzar_Catalin_Lab2.Models.LibraryViewModels;
+using LibraryModel.Models.LibraryViewModels;
 
 namespace Pinzar_Catalin_Lab2.Controllers
 {

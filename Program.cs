@@ -8,6 +8,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.DependencyInjection;
 using Pinzar_Catalin_Lab2.Data;
+using LibraryModel.Data;
 
 namespace Pinzar_Catalin_Lab2
 {
